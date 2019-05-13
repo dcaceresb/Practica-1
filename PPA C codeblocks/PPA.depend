@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1517177746 source:c:\users\dabid\desktop\ppa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ET.h"
+	"EPS.h"
+	"EPSD.h"
+	"Tabla.h"
+	"PPA.h"
+
+1515480765 c:\users\dabid\desktop\ppa\et.h
+	<stdbool.h>
+	<string.h>
+
+1517181542 c:\users\dabid\desktop\ppa\eps.h
+
+1517181564 c:\users\dabid\desktop\ppa\epsd.h
+	"Tabla.h"
+
+1516498616 c:\users\dabid\desktop\ppa\tabla.h
+	"EPSD.h"
+	"EPS.h"
+
+1517180225 c:\users\dabid\desktop\ppa\ppa.h
+
